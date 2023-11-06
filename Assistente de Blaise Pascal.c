@@ -35,3 +35,12 @@ printf("Sua viagem levará aproximadamente %d horas e %d minutos e o consumo de 
 }
 return 0;
 }
+
+
+// 1. Expanda o sistema para considerar diferentes condições climáticas. Por exemplo, se houver uma tempestade
+// prevista, a velocidade média do navio pode diminuir em 20%.
+// 2. Adicione uma opção para calcular o consumo de combustível com base na velocidade e tempo de viagem.
+// 3. Permita que o usuário adicione vários destinos, calculando o tempo total da viagem e o consumo total de
+// combustível.
+// 4. No final, o sistema deve ser capaz de fornecer uma rota otimizada (por exemplo, parando em um porto
+// intermediário pode ser mais eficiente em termos de combustível do que ir diretamente ao destino final).

@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/vict_/Documents/Processos/Estrutura de dados/PA Estrutura de Dados/Desafios-Estrutura-de-dados-Gustavo/Assistente-de-Blaise-Pascal",
+      "program": "c:/Users/vict_/Documents/Processos/Estrutura de dados/PA Estrutura de Dados/Desafios-Estrutura-de-dados-Gustavo/Assistente-de-Blaise-Pascal/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
